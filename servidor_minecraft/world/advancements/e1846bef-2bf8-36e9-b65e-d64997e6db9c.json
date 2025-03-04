@@ -1,13 +1,19 @@
 {
-  "undead_revamp2:theundeadchallenges": {
-    "criteria": {
-      "theundeadchallenges_0": "2025-03-04 19:10:17 +0000"
-    },
-    "done": true
-  },
   "create:root": {
     "criteria": {
       "0": "2025-03-04 19:10:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-03-04 19:10:16 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:theundeadchallenges": {
+    "criteria": {
+      "theundeadchallenges_0": "2025-03-04 19:10:17 +0000"
     },
     "done": true
   },
@@ -53,12 +59,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/root": {
-    "criteria": {
-      "useitem": "2025-03-04 19:10:35 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "lavender_forest": "2025-03-04 19:10:17 +0000"
@@ -71,27 +71,39 @@
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-03-04 19:10:35 +0000"
-    },
-    "done": true
-  },
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-03-04 19:10:17 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2025-03-04 19:10:16 +0000"
-    },
-    "done": true
-  },
   "the_bumblezone:wiki": {
     "criteria": {
       "instant_granted": "2025-03-04 19:10:17 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-03-04 19:10:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-03-04 19:10:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
+    "criteria": {
+      "has_flower": "2025-03-04 19:16:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-03-04 19:16:03 +0000"
     },
     "done": true
   },
