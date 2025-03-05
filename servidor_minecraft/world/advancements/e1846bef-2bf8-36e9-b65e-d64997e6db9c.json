@@ -79,15 +79,19 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "rocky_shrubland": "2025-03-05 01:49:48 +0000",
       "highland": "2025-03-05 01:26:15 +0000",
       "jade_cliffs": "2025-03-05 01:25:53 +0000",
       "clover_patch": "2025-03-04 21:24:58 +0000",
+      "wetland": "2025-03-05 02:02:37 +0000",
       "maple_woods": "2025-03-04 20:09:43 +0000",
       "field": "2025-03-04 20:09:48 +0000",
+      "orchard": "2025-03-05 01:48:49 +0000",
       "coniferous_forest": "2025-03-04 19:24:31 +0000",
       "seasonal_orchard": "2025-03-04 19:25:05 +0000",
       "seasonal_forest": "2025-03-04 19:24:19 +0000",
       "volcanic_plains": "2025-03-05 01:39:26 +0000",
+      "lavender_field": "2025-03-05 01:52:06 +0000",
       "fir_clearing": "2025-03-04 19:25:07 +0000",
       "pumpkin_patch": "2025-03-04 19:25:03 +0000",
       "grassland": "2025-03-05 01:25:50 +0000",
@@ -102,6 +106,7 @@
       "minecraft:mushroom_fields": "2025-03-04 20:17:54 +0000",
       "minecraft:taiga": "2025-03-04 22:07:40 +0000",
       "minecraft:deep_ocean": "2025-03-04 20:11:40 +0000",
+      "minecraft:sunflower_plains": "2025-03-05 01:52:45 +0000",
       "minecraft:birch_forest": "2025-03-04 21:24:49 +0000",
       "minecraft:beach": "2025-03-04 19:24:33 +0000",
       "minecraft:dark_forest": "2025-03-04 21:01:51 +0000",
@@ -109,14 +114,17 @@
       "minecraft:river": "2025-03-04 19:25:02 +0000",
       "minecraft:stony_shore": "2025-03-04 21:25:07 +0000",
       "minecraft:dripstone_caves": "2025-03-04 22:14:39 +0000",
+      "minecraft:swamp": "2025-03-05 01:59:36 +0000",
       "minecraft:cold_ocean": "2025-03-04 19:25:21 +0000",
       "minecraft:forest": "2025-03-04 21:30:08 +0000",
       "minecraft:lush_caves": "2025-03-04 22:14:13 +0000",
       "minecraft:deep_cold_ocean": "2025-03-04 20:58:50 +0000",
       "minecraft:ocean": "2025-03-04 20:11:34 +0000",
       "minecraft:jungle": "2025-03-05 01:26:35 +0000",
+      "minecraft:flower_forest": "2025-03-05 01:52:40 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-04 21:01:50 +0000",
       "minecraft:meadow": "2025-03-04 22:32:51 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-03-05 02:00:07 +0000",
       "minecraft:plains": "2025-03-04 19:34:34 +0000"
     },
     "done": false
@@ -3847,99 +3855,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-03-05 01:36:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-03-05 01:37:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_leggings": "2025-03-05 01:40:12 +0000"
-    },
-    "done": true
-  },
-  "lootr:1cart": {
-    "criteria": {
-      "opened_cart": "2025-03-05 01:34:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-03-05 01:34:29 +0000"
-    },
-    "done": true
-  },
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2025-03-05 01:28:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-03-05 01:34:29 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/funeral_theft": {
-    "criteria": {
-      "coded_trigger": "2025-03-05 01:40:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-03-05 01:37:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-03-05 01:37:30 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/cooked_rice": {
-    "criteria": {
-      "has_rice": "2025-03-05 01:36:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-03-05 01:34:29 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/black_sandstone": {
-    "criteria": {
-      "has_sand": "2025-03-05 01:42:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2025-03-05 01:36:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/rice_bag": {
-    "criteria": {
-      "has_rice": "2025-03-05 01:36:02 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
-    "criteria": {
-      "has_iron_backpack": "2025-03-05 01:35:59 +0000"
     },
     "done": true
   },
@@ -3958,6 +3876,234 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-03-05 01:28:46 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-03-05 01:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-03-05 01:34:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-03-05 01:34:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-03-05 01:34:29 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-03-05 01:35:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-05 01:36:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-03-05 01:36:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-03-05 01:36:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-03-05 01:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-03-05 01:37:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-05 01:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-05 01:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-03-05 01:40:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-03-05 01:40:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/black_sandstone": {
+    "criteria": {
+      "has_sand": "2025-03-05 01:42:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-03-05 01:50:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-03-05 01:50:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-03-05 01:50:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2025-03-05 01:50:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2025-03-05 01:50:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2025-03-05 01:50:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-03-05 01:50:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-03-05 01:50:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-03-05 01:50:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-03-05 01:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-03-05 01:51:18 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/brown_flag": {
+    "criteria": {
+      "has_brown_flag": "2025-03-05 01:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-03-05 01:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-03-05 01:53:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-03-05 01:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-03-05 01:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-05 01:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-03-05 01:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-03-05 01:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-05 01:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-03-05 01:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-05 01:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-05 01:53:42 +0000"
     },
     "done": true
   },
