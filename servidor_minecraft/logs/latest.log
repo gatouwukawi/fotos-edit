@@ -267,3 +267,19 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [05Mar2025 03:14:18.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
 [05Mar2025 03:16:10.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
 [05Mar2025 03:16:52.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[05Mar2025 03:25:03.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HUNTERSKULL has made the advancement [The Journey Begins]
+[05Mar2025 03:25:43.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[05Mar2025 03:26:10.251] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:toxic_caves at -5287 -56 -2403 in 2s
+[05Mar2025 03:26:30.549] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:magnetic_caves at -8172 -56 10403 in 4s
+[05Mar2025 03:26:36.824] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:forlorn_hollows at -3937 -56 4472 in 1s
+[05Mar2025 03:33:15.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Adventure Mode]
+[05Mar2025 03:33:17.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Spectator Mode]
+[05Mar2025 03:33:37.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Adventure Mode]
+[05Mar2025 03:33:39.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[05Mar2025 03:33:51.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HUNTERSKULL> mi mesa
+[05Mar2025 03:33:55.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HUNTERSKULL> damela
+[05Mar2025 03:34:21.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Adventure Mode]
+[05Mar2025 03:34:22.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 was slain by HUNTERSKULL
+[05Mar2025 03:34:22.353] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[05Mar2025 03:34:32.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Teleported fablex39 to 133.500000, 59.500000, 2247.500000]
+[05Mar2025 03:34:51.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
