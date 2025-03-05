@@ -9348,3 +9348,7 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [05Mar2025 05:04:07.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 left the game
 [05Mar2025 05:05:38.245] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Mar2025 05:05:38.263] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Mar2025 05:10:38.244] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Mar2025 05:10:38.261] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Mar2025 05:15:38.243] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Mar2025 05:15:38.259] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
