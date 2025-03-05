@@ -4231,6 +4231,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-03-05 04:43:48 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:defeatundeadbosses": {
     "criteria": {
       "defeatundeadbosses_0": "2025-03-05 04:27:09 +0000"
@@ -4252,6 +4258,12 @@
   "undead_revamp2:sugarcoat": {
     "criteria": {
       "sugarcoat_0": "2025-03-05 04:27:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-03-05 04:44:00 +0000"
     },
     "done": true
   },

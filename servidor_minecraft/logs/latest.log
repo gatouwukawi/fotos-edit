@@ -391,3 +391,7 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [05Mar2025 04:30:04.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
 [05Mar2025 04:31:58.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola7
 [05Mar2025 04:33:00.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[05Mar2025 04:44:15.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[05Mar2025 04:44:39.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[05Mar2025 04:45:05.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Spectator Mode]
+[05Mar2025 04:45:08.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
