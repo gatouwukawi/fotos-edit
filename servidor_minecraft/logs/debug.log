@@ -9296,3 +9296,35 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [05Mar2025 04:13:53.066] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
 [05Mar2025 04:13:54.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has made the advancement [The Most Useful Key]
 [05Mar2025 04:14:12.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has completed the challenge [One eyed big skelly]
+[05Mar2025 04:15:38.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Mar2025 04:15:38.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Mar2025 04:16:59.065] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1052, y=67, z=1752} BlockPos{x=-1052, y=65, z=1753}
+[05Mar2025 04:17:05.063] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HUNTERSKULL lost connection: Timed out
+[05Mar2025 04:17:05.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HUNTERSKULL left the game
+[05Mar2025 04:18:11.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made fablex39 a server operator
+[05Mar2025 04:18:14.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[05Mar2025 04:20:38.271] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Mar2025 04:20:38.290] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Mar2025 04:24:13.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[05Mar2025 04:25:38.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Mar2025 04:25:38.288] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Mar2025 04:26:05.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 was slain by Zombie
+[05Mar2025 04:26:05.746] [Server thread/DEBUG] [tombstone/]: A new grave of the player fablex39 was created at position [x:-956, y:119, z:1747, dim:minecraft:overworld]
+[05Mar2025 04:26:05.755] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[05Mar2025 04:26:32.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 was squashed by a falling anvil
+[05Mar2025 04:26:32.447] [Server thread/DEBUG] [tombstone/]: A new grave of the player fablex39 was created at position [x:-968, y:115, z:1741, dim:minecraft:overworld]
+[05Mar2025 04:26:32.448] [Server thread/INFO] [tombstone/]: The player fablex39 has successfully been saved
+[05Mar2025 04:27:05.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has completed the challenge [I'm not sugar coating it]
+[05Mar2025 04:27:09.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has completed the challenge [Unfunny dad jokes]
+[05Mar2025 04:27:09.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has made the advancement [First big catch of the month!]
+[05Mar2025 04:27:48.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[05Mar2025 04:28:01.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has made the advancement [Hot Stuff]
+[05Mar2025 04:29:36.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[05Mar2025 04:29:56.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[05Mar2025 04:30:04.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Survival Mode]
+[05Mar2025 04:30:38.267] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Mar2025 04:30:38.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Mar2025 04:31:58.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola7
+[05Mar2025 04:33:00.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fablex39: Set own game mode to Creative Mode]
+[05Mar2025 04:35:38.266] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Mar2025 04:35:38.284] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
