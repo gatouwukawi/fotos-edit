@@ -9341,3 +9341,10 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [05Mar2025 04:55:15.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola
 [05Mar2025 04:55:38.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Mar2025 04:55:38.284] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Mar2025 05:00:38.265] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Mar2025 05:00:38.283] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Mar2025 05:00:40.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 has made the advancement [Soul of the Sea]
+[05Mar2025 05:04:07.692] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fablex39 lost connection: Disconnected
+[05Mar2025 05:04:07.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fablex39 left the game
+[05Mar2025 05:05:38.245] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Mar2025 05:05:38.263] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
